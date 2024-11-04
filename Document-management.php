@@ -70,7 +70,7 @@ $row=mysqli_fetch_array($result);
 					<div class="col-md-12 stretch-card">
 						<div class="card">
 							<div class="card-body">
-								<h4 class="card-title">Add Employee Documents </h4>
+								<h4 class="card-title">Add Employee Document </h4>
 									<form method="post" action="" enctype="multipart/form-data">
 
 										<div class="row">
