@@ -249,7 +249,7 @@
           								</div><!-- Col -->
           								<div class="col-sm-12">
             									<div class="mb-3">
-            										<label class="form-label">Reletionship<code>*</code></label>
+            										<label class="form-label">Relationship<code>*</code></label>
 													<select id="relationship" name="E_emergency_Reletionship"  required class="form-select">
 														<option value="<?php echo $E_emergency_Reletionship; ?>"><?php echo $E_emergency_Reletionship; ?></option>
 														<option value="Father">Father</option>
