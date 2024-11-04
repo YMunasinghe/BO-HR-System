@@ -336,7 +336,7 @@
           							<div class="col-sm-6">
           								<div class="mb-3">
           									<label class="form-label">Date of joing<code>*</code></label>
-          									<input type="date" class="form-control" placeholder="Enter Date of joing" name="E_Jdate" required value="<?php echo $E_Jdate; ?>"/>
+          									<input type="date" class="form-control" placeholder="Enter Date of joining" name="E_Jdate" required value="<?php echo $E_Jdate; ?>"/>
           								</div>
           							</div><!-- Col -->
 
